@@ -1,0 +1,1200 @@
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-21","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-20","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-19","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-24","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-01","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-20","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-09","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-22","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-13","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-21","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-01","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-26","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-26","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-15","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-11","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-13","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-09","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-01","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-27","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-22","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-13","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-24","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-13","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-08","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-20","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-16","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-26","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-18","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-10-27","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-10-21","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-13","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-28","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-07","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-24","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-19","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-16","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-06","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-04","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-20","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-03","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-14","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-17","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-11-12","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-08","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-10","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-04","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-13","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-21","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-26","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-18","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-21","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-28","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-28","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-26","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-11","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-27","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-09","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-27","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-18","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-11","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-24","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-26","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-13","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-25","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-07","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-10-03","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-28","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-07","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-21","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-02","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-08","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-04","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-04-17","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-10","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-14","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-22","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-18","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-04","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-08","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-13","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-09","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-04","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-22","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-21","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-20","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-08","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-11-03","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-15","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-18","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-10","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-19","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-24","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-01","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-01-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-18","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-06","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-18","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-22","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-11","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-21","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-23","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-24","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-15","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-24","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-20","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-16","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-13","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-08","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-10-10","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-13","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-25","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-04-25","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-21","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-12","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-27","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-18","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-11-19","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-01-15","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-22","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-17","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-22","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-13","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-06","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-24","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-22","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-27","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-20","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-16","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-25","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-25","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-26","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-06","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-03","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-15","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-20","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-24","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-04","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-05","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-02","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-12","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-20","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-21","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-10-09","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-06","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-15","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-21","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-13","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-01","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-08","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-07","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-20","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-28","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-23","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-10-15","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-03","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-11","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-06","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-19","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-16","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-01-11","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-04","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-28","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-10-17","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-13","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-23","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-15","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-15","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-02","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-04","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-19","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-05","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-18","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-12","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-01","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-03","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-26","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-06-26","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-12","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-21","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-19","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-06-12","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-06","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-15","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-15","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-23","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-22","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-26","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-15","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-07","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-20","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-04","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-19","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-23","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-10","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-06","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-02","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-17","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-28","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-16","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-20","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-08","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-05-09","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-24","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-17","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-10-19","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-26","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-04-06","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-21","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-07-12","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-18","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-10-15","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-22","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-24","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-19","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-26","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-14","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-04","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-08","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-08-27","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-10-21","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-24","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-04-01","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-24","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-11","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-11-09","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-19","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-02-16","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-12","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-16","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-10-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-21","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-07","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-15","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-18","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-12","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-11-19","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-14","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-22","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-05","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-13","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-01-03","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-09-12","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-22","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-03-14","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-10-20","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-22","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-05","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-01-12","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-16","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-06-05","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-25","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-06","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-11-10","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-21","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-10-01","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-08","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-11","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-27","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-06","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-26","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-12-24","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-22","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-07-14","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-07","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-02-17","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-16","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-08","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-12-24","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-25","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-08-26","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-04-09","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-03-16","外食", "食費",490)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-10-23","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-22","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-04-12","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-07-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-05-07","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2012-12-05","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-11-09","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-08-22","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-09-07","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-05-06","スケットダンス34巻", "漫画", 420)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-04-24","ビブリア古書道の事件手帳", "小説", 830)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-03-17","タクシー", "交通費",1670)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2013-02-24","シャナ5巻", "ラノベ", 600)
+/
+INSERT INTO Kakeibo 
+ (Date, ItemName, ItemCategory, ItemValue) 
+ VALUES("2011-09-16","タクシー", "交通費",1670)
+/

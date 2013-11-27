@@ -1,0 +1,428 @@
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","お菓子","食費","",568) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト1巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト2巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト3巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト4巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト5巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト6巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","フェイトステイナイト7巻","書籍","漫画",10) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","木造迷宮4巻","書籍","漫画",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","狼の口1巻","書籍","漫画",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","狼の口2巻","書籍","漫画",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","狼の口3巻","書籍","漫画",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-01","浜村渚の計算ノート","書籍","小説",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-06","宇宙兄弟20巻","書籍","漫画",450) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-06","女子モテな妹と受難な俺6巻","書籍","ラノベ",400) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","ガソリン","交通費","",1335) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","食材","食費","",518) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","Right*Light 8巻","書籍","ラノベ",105) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","ゴールデンタイム5巻","書籍","ラノベ",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","棺姫のチャイカ5巻","書籍","ラノベ",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","棺姫のチャイカ6巻","書籍","ラノベ",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-08","極黒のブリュンヒルデ","書籍","漫画",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-09","食材","食費","",268) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-09","夕飯","食費","",240) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-10","食材","食費","",650) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-11","かつ大","食費","",450) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-11","パン","食費","",120) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-11","SAI背景イラストメイキング","書籍","書籍",2300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","切手","その他","",120) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","ガソリン","交通費","",1114) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","夕飯","食費","",619) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","ひきこもりの彼女は神なのです8巻","書籍","ラノベ",350) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","囚人リク7巻","書籍","漫画",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-12","パパの言う事聞きなさい12巻","書籍","ラノベ",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-13","スタジオ代","遊","",600) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-13","ベース修理費","遊","",3170) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-13","100円雑貨","その他","",210) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-13","昼飯","食費","",1000) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-13","飲み会","食費","",2500) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-14","食材","食費","",465) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-14","洗剤","その他","",554) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","食材","食費","",817) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","お前をオタクにしてやるから俺をリア充にしてくれ6巻","書籍","ラノベ",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","ゴールデンタイム5巻","書籍","ラノベ",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","棺のチャイカ5巻","書籍","ラノベ",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","棺のチャイカ6巻","書籍","ラノベ",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","マグダラで眠れ3巻","書籍","ラノベ",613) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","ファンタジア文庫アニバーサリー","書籍","ラノベ",600) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","進撃の巨人10巻","書籍","漫画",345) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","囚人リク9巻","書籍","漫画",246) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","ロウきゅーぶ12巻","書籍","ラノベ",98) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","海獣の子供1巻","書籍","漫画",49) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-15","海獣の子供2巻","書籍","漫画",49) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-16","ガソリン","交通費","",993) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-16","食材","食費","",741) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-16","筆記用具","その他","",287) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-16","夕飯","食費","",1000) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-17","100円雑貨","その他","",315) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-17","昼飯","食費","",450) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-17","ミル4巻","書籍","漫画",350) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-18","パン","食費","",200) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-18","昼飯","食費","",510) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","東京喰種7巻","書籍","漫画",513) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","ノラガミ3巻","書籍","漫画",71) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","ノラガミ4巻","書籍","漫画",71) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","ノラガミ5巻","書籍","漫画",71) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","ノラガミ6巻","書籍","漫画",71) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","志乃ちゃんは自分の名前が言えない","書籍","漫画",94) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-19","ぼくは麻理のなか","書籍","漫画",9) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-20","牛角","食費","",2887) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-20","死神を食べた少女(下)","小節","",250) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-21","100円雑貨","その他","",630) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-22","お菓子","食費","",998) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-22","死神のキョウ5巻","書籍","ラノベ",105) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-22","お茶が運ばれてくるまでに","小節","",105) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","食材","食費","",1121) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","ガソリン","交通費","",1086) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","昼飯","食費","",330) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","ベルセルク37巻","書籍","漫画",280) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","月刊少女野崎君2巻","書籍","漫画",240) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","さくら荘のペットな彼女9巻","書籍","ラノベ",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-23","夕飯","食費","",1000) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-24","もっとも美しい数学ゲーム理論","書籍","書籍",309) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-24","昼飯","食費","",330) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-26","夕飯","食費","",540) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-26","suicaチャージ","交通費","",2000) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","生活用品","その他","",2172) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","はたらく魔王さま8巻","書籍","ラノベ",619) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","囚人リク8巻","書籍","漫画",294) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","囚人リク10巻","書籍","漫画",294) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","昼飯","食費","",580) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","ハクメイとミコチ1巻","書籍","漫画",350) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","テールランプ","その他","",388) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","テスト登録","食費","",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-27","シュナの旅","書籍","",100) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-28","食材","食費","",1107) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-28","食材","食費","",663) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","テスト登録","食費","",450) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","テスト登録","食費","",500) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","ps-vitaメモリーカード32GB","その他","",8075) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","理想のヒモ生活","書籍","",609) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-30","昼飯","食費","",300) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","月見月理解の探偵殺人5巻","書籍","",105) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-29","彼女は戦争妖精9巻","書籍","",105) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-04-30","パン","食費","",130) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-05-01","夕飯","食費","",950) 
+/
+insert into Kakeibo 
+ (date, itemName, category, subCategory, price) 
+values( "2013-05-01","スタジオ代","その他","",600) 
+/
